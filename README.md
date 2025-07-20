@@ -1,6 +1,7 @@
 # Python-Assignment-3
 
 **TASK1**
+
 define(def) the function(suppose we named it 'fact'), give one argument let 'n';
 We'll need an if-else condition to check if the input n is not smaller than 2;
 If it is, then we return 1 as factorial of both '1' and '0' is 1, and in the 'else' part, we write the rest of the code. 
